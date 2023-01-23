@@ -1,11 +1,11 @@
-# WSTT: Web Security Testing Tool
-Scans a website for common web vulnerabilities.
+# DVIWUA: Detecting Vulnerabilities In Websites Using Multiscale Approaches (A Sloution Base Case Study)
+Scans a website for most common web vulnerabilities.
 ```
 Usage:
-    wstt
-    wstt [options] <url>
-    wstt (-h | --help)
-    wstt (-v | --version)
+    DVIWUA
+    DVIWUA [options] <url>
+    DVIWUA (-h | --help)
+    DVIWUA (-v | --version)
 Options:
     -c, --cookie=<cookie>          Send this Cookie with the requests
     -C, --command-injection        Scan for command injection
