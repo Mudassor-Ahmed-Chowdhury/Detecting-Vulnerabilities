@@ -21,7 +21,7 @@ Options:
     -S, --sqli                     Scan for SQLi
         --time=<seconds>           The seconds to inject in time-based
         --verbose                  Show more info
-    -v, --version                  Show the version of WSTT
+    -v, --version                  Show the version of DVIWUA
     -V, --versions                 Scan for the server version
     -X, --xss                      Scan for XSS
 ```
