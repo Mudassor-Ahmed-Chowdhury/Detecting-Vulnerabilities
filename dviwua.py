@@ -2,10 +2,10 @@
 """Scan a website for common web vulnerabilites
 
 Usage:
-    wstt
-    wstt [options] <url>
-    wstt (-h | --help)
-    wstt (-v | --version)
+    DVIWUA
+    DVIWUA[options] <url>
+    DVIWUA (-h | --help)
+    DVIWUA (-v | --version)
 Options:
     -c, --cookie=<cookie>          Send this Cookie with the requests
     -C, --command-injection        Scan for command injection
@@ -21,7 +21,7 @@ Options:
     -S, --sqli                     Scan for SQLi
         --time=<seconds>           The seconds to inject in time-based TODO
         --verbose                  Show more info
-    -v, --version                  Show the version of WSTT
+    -v, --version                  Show the version of DVIWUA
     -V, --versions                 Scan for the server version
     -X, --xss                      Scan for XSS
 """
