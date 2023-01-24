@@ -28,7 +28,6 @@ session.mount("http://", adapter)
 About = """
 Detecting Vulnerabilities In Websites Using Multiscale Approaches : A Sloution Base Case Study 
 Author : Mudassor Ahmed Chowdhury
-DVIW is licenced under GNU GPL-3.0.
 """
 
 class ThreadSignal(qtc.QObject):
